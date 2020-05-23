@@ -60,9 +60,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishabhkeshan/youtube-sync.git"
+    "url": "git+https://github.com/rishabhkeshan/youtubeSync.git"
   },
   "bugs": {
-    "url": "https://github.com/rishabhkeshan/youtube-sync/issues"
+    "url": "https://github.com/rishabhkeshan/youtubeSync/issues"
   }
 }
